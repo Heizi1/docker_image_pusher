@@ -1,3 +1,4 @@
 gitlab/gitlab-ce:17.3.0-ce.0
 zookeeper:3.7.0
 tobilg/zookeeper-webui
+tdengine/tdengine:3.2.0.0
