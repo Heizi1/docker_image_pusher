@@ -3,3 +3,4 @@ zookeeper:3.7.0
 tobilg/zookeeper-webui
 tdengine/tdengine:3.2.0.0
 centos:7.9.2009
+mysql:8.0
