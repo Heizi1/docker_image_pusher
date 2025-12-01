@@ -1,1 +1,1 @@
-openjdk:11-jre-slim
+weaviate:1.30.0
