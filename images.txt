@@ -1,1 +1,1 @@
-weaviate:1.30.0
+prom/prometheus:v2.48.0
