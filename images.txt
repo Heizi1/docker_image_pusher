@@ -1,1 +1,1 @@
-grafana/grafana:10.2.0
+eclipse-temurin:21-jre
