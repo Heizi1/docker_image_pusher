@@ -1,2 +1,1 @@
-nginx:1.23-alpine
-mysql:8.0.41
+pgvector/pgvector:pg16
