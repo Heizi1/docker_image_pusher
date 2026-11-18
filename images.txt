@@ -1,4 +1,1 @@
 minio/minio:latest
-minio/mc:latest
-victoriametrics/victoria-logs:v1.50.0
-timberio/vector:0.55.0-alpine
